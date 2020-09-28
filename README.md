@@ -1,3 +1,3 @@
 # Portfolio
 
-Welcome to my portfolio! Check it out in action at the [deployment here](www.developersandro.com)
+Welcome to my portfolio! www.developersandro.com
